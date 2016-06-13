@@ -1,3 +1,3 @@
 # test
 
-this is a test! its party time
+This is a repository for a software that integrates with blah blah blah
